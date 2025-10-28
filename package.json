@@ -4,8 +4,6 @@
   "description": "Elegant and powerful theme for Hexo.",
   "main": "package.json",
   "scripts": {
-    "build": "npx hexo generate",
-    "start": "npx hexo server",
     "test": "echo test"
   },
   "repository": {
